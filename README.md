@@ -4,6 +4,8 @@ Consultas e monitoramento com splunk, configurações e exemplos de query para u
 
 #### 1. Iniciando o Splunk na linha de comando com MAC.
 
+<code>localhost:~ wbianchi$ /Applications/splunk/bin/splunk start --accept-license</code>
+
 <pre style="white-space:pre;" class="line-numbers pre_js"><code class="pre_js"># <span class="token maybe-class-name">Mac</span> – iniciando o <span class="token maybe-class-name">Splunk</span> pela primeira vez
 localhost<span class="token operator">:</span><span class="token operator">~</span>wbianchi$ splunk start <span class="token operator">--</span>accept<span class="token operator">-</span>license
 
@@ -37,6 +39,10 @@ localhost<span class="token operator">:</span><span class="token operator">~</sp
 <span class="token maybe-class-name">The</span> <span class="token maybe-class-name">Splunk</span> web <span class="token keyword">interface</span> <span class="token class-name">is</span> at http<span class="token operator">:</span><span class="token operator">/</span><span class="token operator">/</span>localhost<span class="token operator">:</span><span class="token number">8000</span><span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre>
 
 #### 2. Iniciando o Splunk na linha de comando com Linux-Unix.
+
+<code>root@localhost:~# /opt/splunk/bin/splunk start<br>
+splunkd 3997 was not running.<br>
+Stopping splunk helpers...</code>
 
 <pre style="white-space:pre;" class="line-numbers pre_js"><code class="pre_js"># <span class="token maybe-class-name">Linux</span> – iniciando o <span class="token maybe-class-name">Splunk</span> pela primeira vez
  root@localhost<span class="token operator">:</span><span class="token operator">~</span># <span class="token operator">/</span>opt<span class="token operator">/</span>splunk<span class="token operator">/</span>bin<span class="token operator">/</span>splunk start <span class="token operator">--</span>accept<span class="token operator">-</span>license
