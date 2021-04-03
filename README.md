@@ -82,5 +82,6 @@ _internal _thefishbucket history main summary
 - [Download do arquivo de logs (Sampledata.zip)](http://tinyurl.com/bgmkod3)
 - [Site oficial Splunk em português](http://pt.splunk.com)
 - [Splunk Processing Language Book](http://www.splunk.com/goto/book)
-
+- [Splunk tutorial](http://docs.splunk.com/Documentation/Splunk/latest/User/WelcometotheSplunktutorial)
+- [Splunk Docs](http://docs.splunk.com/Documentation)
 
