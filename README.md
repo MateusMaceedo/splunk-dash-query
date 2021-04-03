@@ -1,6 +1,5 @@
 <img src="https://www.splunk.com/content/dam/splunk-logo-dark.svg" width="122" height="36">
 
-### Splunk
 Consultas e monitoramento com splunk, configurações e exemplos de query para uso de volumetria de dados.
 
 #### 1. Iniciando o Splunk na linha de comando com MAC.
