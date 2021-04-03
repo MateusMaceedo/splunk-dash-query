@@ -1,3 +1,4 @@
+<img class="splunk-logo logo-image" src="/content/dam/splunk-logo-dark.svg" alt="logo" title="logo">
 
 ### Splunk
 Consultas e monitoramento com splunk, configurações e exemplos de query para uso de volumetria de dados.
